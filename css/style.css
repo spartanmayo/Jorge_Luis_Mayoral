@@ -847,6 +847,7 @@
 		input[type="reset"].fit,
 		input[type="button"].fit,
 		.button.fit {
+			padding: 2em auto;
 			display: block;
 			margin: 0 0 1em 0;
 			width: 100%;
